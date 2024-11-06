@@ -1,0 +1,55 @@
+{
+    "profile": {
+      "firstName": "Martin",
+      "lastName": "Calamel",
+      "address": "18 impasse des cerisiers, 83340 le Cannet des Maures",
+      "phone": "07 83 27 44 27",
+      "email": "macalamel@gmail.com",
+      "github": "https://github.com/macalamel"
+    },
+    "experience": [
+      {
+        "title": "Pisteur secouriste",
+        "company": "Domaine du Grand Bornand",
+        "position": "Stagiaire",
+        "dates": "Stage de 3ème"
+      },
+      {
+        "title": "Programmeur CNC",
+        "company": "",
+        "position": "Stagiaire",
+        "dates": "Stage de 2nd"
+      },
+      {
+        "title": "Vigneron",
+        "company": "Domaine Les Vingtinières",
+        "position": "Homme à tout faire",
+        "dates": "Travail d’été"
+      },
+      {
+        "title": "Responsable Maraudes",
+        "company": "Communauté du chemin neuf",
+        "position": "Responsable",
+        "dates": "Association 2022-2024"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lycée Sainte Jeanne D’arc, Brignoles, Var",
+        "program": "Classe préparatoire associée à CPE"
+      }
+    ],
+    "awards": [
+      "Participation au concours CGénial Collège",
+      "Brevet Mention Très Bien (2019)",
+      "2ème départemental, 3ème académique au Concours National de la Résistance et de la Déportation (2021)",
+      "Baccalauréat Mention Bien (2022)",
+      "BIA (2022)"
+    ],
+    "skills": {
+      "programming": ["Python (Avancé)", "C++ (Débutant)", "Batch (Notion)"],
+      "cybersecurity": ["210 points RootMe", "Level5 TryHackMe"]
+    },
+    "hobbies": ["Escalade (2h par semaine)", "Cracheur de feu (occasion)"]
+  }
+  

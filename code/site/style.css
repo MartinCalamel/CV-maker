@@ -1,0 +1,38 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.cv-container {
+    display: flex;
+    max-width: 900px;
+    margin: auto;
+}
+
+.sidebar {
+    background-color: #1E4072;
+    color: white;
+    padding: 20px;
+    width: 300px;
+}
+
+.profile-photo img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.main-content {
+    padding: 20px;
+    width: 100%;
+}
+
+h2, h3 {
+    color: #1E4072;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
