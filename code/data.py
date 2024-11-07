@@ -64,7 +64,7 @@ class Data:
                 data_prov[param] = data
             self.update_data(data_prov)
     
-    def add_category(self, param : str, data : list = []) -> None:
+    def add_category(self, param : str, data : dict = []) -> None:
         """
         fonction to add category in data json file
         """

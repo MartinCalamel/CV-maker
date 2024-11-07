@@ -30,5 +30,28 @@ class Profile :
         """
         fonction for add a profile in the file profile.json and return the data of the profile
         """
-        pass
-        
+        data = self.make_profile(self.profile_elements)
+        self.data.add_category(profile_name,data)
+        return data
+    
+    def make_profile(self,profile_elements : list):
+        data={}
+        for element in profile_elements:
+            if element[1] == "" :
+                data[element[0]] = input(f'{element[0]} : ')
+            elif element[1] == []:
+                data[element[0]] = self.add_list_element(element[0])
+            elif type(element[1]) == list:
+                for i in element[1]:
+                    self.make_profile()
+    
+    def add_list_element(self, element_name : str) -> list:
+        res = []
+        stop = False
+        while not stop:
+            new = input(f'element to add to {element_name} (q for stop) : ')
+            if new == "q":
+                stop = True
+            else:
+                res.append(new)
+        return new
