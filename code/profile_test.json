@@ -1,1 +1,68 @@
-{"profile1": {"surname": "cvbn", "name": "rtyui", "address": "fghjkl", "phone": "ykld", "email": "uhjrnfdc", "github": "refdjscn", "experience": [{"title": "reujfdsn", "company": "ujrends", "position": "ujrnds", "dates": "ozlq"}, {"title": "oiuytr", "company": "fghjk", "position": "mlkj", "dates": "edc"}], "education": [{"institution": "rtyuio", "dates": "poiuyt"}, {"institution": "retyuio", "dates": "gfds"}], "awards": ["", "test", "zreza", "rfdc"], "skills": ["oiuytre", "kjhgfds", "nbvcx"], "hobbies": ["plkjn", "cfghjo", "iuytrfcv"]}}
+{
+    "profile1": {
+        "surname": "CALAMEL",
+        "name": "Martin",
+        "address": "18 impasse des cerisiers 83340 le cannet des maures",
+        "phone": "07 83 27 44 27",
+        "email": "macalamel@gmail.com",
+        "github": "https://github.com/MartinCalamel",
+        "experience": [
+            {
+                "title": "job d'\u00e9t\u00e9",
+                "company": "la Mascarone",
+                "position": "ouvrier viticole",
+                "dates": "\u00e9t\u00e9 2024"
+            },
+            {
+                "title": "job \u00e9t\u00e9",
+                "company": "les vintign\u00e8res",
+                "position": "ouvrier viticole",
+                "dates": "\u00e9t\u00e9 2022"
+            },
+            {
+                "title": "stage seconde",
+                "company": "Guillaume Albouy",
+                "position": "stagi\u00e8re",
+                "dates": "2020"
+            },
+            {
+                "title": "stage de 3\u00e8me",
+                "company": "domaine du grand bornand",
+                "position": "stagi\u00e8re pisteur",
+                "dates": "2019"
+            }
+        ],
+        "education": [
+            {
+                "institution": "institution sainte jeanne d'arc",
+                "dates": "2019-2022"
+            },
+            {
+                "institution": "Prepa CPE",
+                "dates": "2022-2024"
+            },
+            {
+                "institution": "CPE",
+                "dates": "2024-"
+            }
+        ],
+        "awards": [
+            "",
+            "Niveau 1 plonger",
+            "BAC (bien)",
+            "BIA (bien)",
+            "2\u00e8me departement au CNRD",
+            "Brevet (tr\u00e8s bien)"
+        ],
+        "skills": [
+            "programmation (python, html, css, javascript)",
+            "Cybersecurit\u00e9e (rootme, tryhackme)",
+            "logiciels (Microsoft, VS-code, LTspice) "
+        ],
+        "hobbies": [
+            "escalade",
+            "programmation",
+            "art du cirque"
+        ]
+    }
+}
