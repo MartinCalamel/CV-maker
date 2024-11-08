@@ -36,6 +36,9 @@ class Profile :
         return data
     
     def make_profile(self,profile_elements : list) -> dict:
+        """
+        fonction pour faire un profile a partir d'un template profile element
+        """
         data={}
         for element in profile_elements:
             if element[1] == "" :
@@ -46,6 +49,9 @@ class Profile :
         return data
     
     def add_list_element(self, element : list) -> list:
+        """
+        add object to the liste of the element
+        """
         res = []
         stop = False
 
